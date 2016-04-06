@@ -6,7 +6,7 @@
   <body>
     <STYLE type="text/css">
    #red{
-    background-color : red ;
+    background-color : lightpink ;
     } 
            
            </style>
